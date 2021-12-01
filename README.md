@@ -1,4 +1,4 @@
-# EvaluacionHistogramas
+# Evaluacion de la creación y análisis de Histogramas
 Como evaluación final será la entrega de un python notebook en colaborative con tres secciones:
 
 1. Una sección con la gráfica del momento transverso del primer muon del conjunto de datos del CMS (pt1) con el que hemos estado trabajando. Incluyendo título en la gráfica, leyenda en el eje x y leyenda en el eje y. Entre el rango de 35 a 50 GeV. 
